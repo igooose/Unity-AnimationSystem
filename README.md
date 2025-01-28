@@ -1,7 +1,7 @@
 # 🎬 Unity-AnimationSystem
 A easy to use animation system for Unity projects that doesn't require an **Animator Controller**. Simply attach the **Animation State Manager** component to GameObject, and manage animation states directly from the Inspector. Assign **animation clips**, **audio clips**, or even **animation events** with ease. Once configured, seamlessly trigger animation states via code. Good solution for quick prototyping or managing simple straightforward animation states.
 
-![demo_preview](./Assets/demo_preview.gif)
+![demo_preview](./demo_preview.gif)
 
 > See the package's sample for demonstration.
 
