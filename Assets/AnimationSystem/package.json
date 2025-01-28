@@ -1,0 +1,17 @@
+{
+    "name": "com.goose.animation-system",
+    "version": "1.0.0",
+    "displayName": "Goose's Animation System",
+    "description": "Easy to use animation system for Unity project.",
+    "unity": "2022.3",
+    "author": {
+      "name": "Goose"
+    },
+    "samples": [
+        {
+            "displayName": "Animation System Sample",
+            "description": "Contains demo of how to use the animation system.",
+            "path": "Samples~/"
+        }
+    ]
+  }

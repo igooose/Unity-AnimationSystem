@@ -1,0 +1,16 @@
+{
+    "name": "AnimationSystemEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fa68d65236843174caa1a25f253f371d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
